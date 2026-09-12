@@ -1,7 +1,7 @@
 # Hi, I'm liamwalker2859 👋
 
-I'm a Open Source Contributor working with PHP, Laravel, Vue.js.
+I'm a DevOps Engineer working with C++, OpenGL, CMake.
 
-📍 Poland
+📍 Netherlands
 
 Always open to interesting projects and collaborations.
